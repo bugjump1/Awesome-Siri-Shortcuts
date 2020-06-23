@@ -1,11 +1,12 @@
 # All My Shortcuts
 
-Numbers:	67	
+Numbers:	68	
 
 Device:		suliveevil_iPadPro11	iPadOS 14.0
-Size:		15.4 MB (15358894 Bytes)
 
-Date:		2020-06-24T04:16:36+08:00
+Size:		15.4 MB (15360335 Bytes)
+
+Date:		2020-06-24T04:19:58+08:00
 
 ## list
 
@@ -44,9 +45,9 @@ Date:		2020-06-24T04:16:36+08:00
 | __iVim_assistant             | 46 KB  |
 | 文字工具盒                   | 34 KB  |
 | 单词拆分                     | 32 KB  |
+| _Shortcuts-Info_             | 32 KB  |
 | 🔍本地搜索🔍                 | 31 KB  |
 | __ctags_Python               | 31 KB  |
-| _Shortcuts-Info_             | 30 KB  |
 | 文件Diff                     | 29 KB  |
 | 电池寿命_mod                 | 28 KB  |
 | 📁快速文件夹                 | 28 KB  |
