@@ -2,11 +2,13 @@
 
 Numbers:	68	
 
-Device:		suliveevil_iPadPro11	iPadOS 14.0
+Device:		suliveevil_iPadPro11
 
-Size:		15.4 MB (15360335 Bytes)
+OS:			iPadOS 14.0
 
-Date:		2020-06-24T04:19:58+08:00
+Size:		15.4 MB (15360342 Bytes)
+
+Date:		2020-06-24T04:22:19+08:00
 
 ## list
 
